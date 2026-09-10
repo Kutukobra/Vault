@@ -1,0 +1,315 @@
+{
+  "main": {
+    "id": "8c1d1af46d059308",
+    "type": "split",
+    "children": [
+      {
+        "id": "6cc8d983f6089f04",
+        "type": "tabs",
+        "dimension": 76.6109785202864,
+        "children": [
+          {
+            "id": "6c41ab87c60da02c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Skripsi.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Skripsi"
+            }
+          },
+          {
+            "id": "c455c3824f9030df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Referensi.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Referensi"
+            }
+          },
+          {
+            "id": "7b4f340c76215deb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Studi Literatur.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Studi Literatur"
+            }
+          },
+          {
+            "id": "a47e06a74f569d28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Seminar.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Seminar"
+            }
+          },
+          {
+            "id": "ab3d66903b7e8f02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UbiTrack.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "UbiTrack"
+            }
+          },
+          {
+            "id": "aeebc6944c8eeb65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Log Bimbingan.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Log Bimbingan"
+            }
+          },
+          {
+            "id": "30781862eeacd741",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Referensi.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Referensi"
+            }
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "870e698f62feb92c",
+        "type": "tabs",
+        "dimension": 23.389021479713605,
+        "children": [
+          {
+            "id": "34a145d63179c02f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "77ff83a42176a6c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e9249af723f28b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d898f2e1bac72e7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c80ad56d659386ea",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b1738454e05b14b1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "de88df736deae4ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "bcc226a6ef786bfc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "edf52658698af6da",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Log Bimbingan.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "a7bd8414f72c2478",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Log Bimbingan.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "7bc7bbff291844bd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "62e18a47307ac2f9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "a233bf69baf762d0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Log Bimbingan.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "aeebc6944c8eeb65",
+  "lastOpenFiles": [
+    "README.md",
+    "CiUAV.md",
+    "UbiTrack.md",
+    "Referensi.md",
+    "Timeline.md",
+    "Seminar.md",
+    "Log Bimbingan.md",
+    "Bands.md",
+    "WiFi7.md",
+    "Untitled.md",
+    "Studi Literatur.md",
+    "Skripsi.md",
+    "Untitled.canvas",
+    "Pasted image 20260901094508.png",
+    "create a link.md",
+    "Welcome.md",
+    "Untitled.base"
+  ]
+}
