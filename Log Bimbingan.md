@@ -22,4 +22,4 @@
 - Beli bahan-bahan
 - Summarize beberapa paper
 - Mulai edit overleaf
-- Test
+- Test Apa kabar bung
