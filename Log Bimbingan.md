@@ -19,4 +19,6 @@
 - Cari artikel survey/review baru ambil dari situ.
 - Panduan GenAI Perguruan Tinggi. Harus ada deklarasi, harus dapat dipertanggungjawabkan.
 ### Next Goal
-- 
+- Beli bahan-bahan
+- Summarize beberapa paper
+- Mulai edit overleaf
