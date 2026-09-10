@@ -9,10 +9,13 @@
 ## Bab II: Tinjauan Pustaka
 ### [[WiFi]]
 ### [[WiFi Sensing]]
-### [[ESP-CSI|Channel State Information dan ESP-CSI]]
+### [[CSI|Channel State Information]]
 ### [[Fingerprinting|WiFi Fingerprinting]]
-### [[flix|Quadcopter flix]]
 ### [[Autonomous|Gerak Otonom]]
+### Platform dan Teknologi Pendukung
+#### [[flix|Quadcopter flix ]]
+#### [[ESP-CSI]]
+
 ### [[Studi Literatur|Penelitian Terdahulu]]
 
 ## Bab III: Metodologi Penelitian
