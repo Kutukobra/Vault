@@ -22,3 +22,4 @@
 - Beli bahan-bahan
 - Summarize beberapa paper
 - Mulai edit overleaf
+- Test
