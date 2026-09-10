@@ -22,4 +22,5 @@
 - Beli bahan-bahan
 - Summarize beberapa paper
 - Mulai edit overleaf
-- Test Apa kabar bung
+
+## Bimbingan (10/09/2026)
