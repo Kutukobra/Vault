@@ -2,6 +2,8 @@
 ### Latar Belakang
 ### Rumusan Masalah
 ### Tujuan Penelitian
+- Autonomous navigation dengan ESP-CSI localization.
+- Menerapkan
 ### Manfaat Penelitian
 ### Ruang Lingkup Penelitian
 ### Sistematika Penulisan

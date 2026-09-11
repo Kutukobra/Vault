@@ -50,7 +50,7 @@
             }
           },
           {
-            "id": "a47e06a74f569d28",
+            "id": "ab3d66903b7e8f02",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -62,36 +62,26 @@
               "icon": "lucide-file",
               "title": "Outline Skripsi"
             }
-          },
-          {
-            "id": "ab3d66903b7e8f02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UbiTrack.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "UbiTrack"
-            }
           }
         ],
         "currentTab": 3
       },
       {
-        "id": "a788b8ba1e2498cc",
+        "id": "cec263b4a5928145",
         "type": "tabs",
         "children": [
           {
-            "id": "661d64b25fd36760",
+            "id": "a47e06a74f569d28",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Seminar.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Seminar"
             }
           }
         ]
@@ -262,16 +252,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "a47e06a74f569d28",
+  "active": "ab3d66903b7e8f02",
   "lastOpenFiles": [
     "Timeline.md",
-    "Studi Literatur.md",
     "CiUAV.md",
     "Seminar.md",
     "UbiTrack.md",
+    "Outline Skripsi.md",
+    "Studi Literatur.md",
     "Log Bimbingan.md",
     "Referensi.md",
-    "Outline Skripsi.md",
     "flix.md",
     "WiFi.md",
     "WiFi Sensing.md",
