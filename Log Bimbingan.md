@@ -24,3 +24,11 @@
 - Mulai edit overleaf
 
 ## Bimbingan (10/09/2026)
+- Struktur utama dari skripsi fleksibel.
+- Tinjauan pustaka dipastikan referensi terbaru dan terupdate (kalau bisa 3 tahun terakhir)
+- Sumber yang lebih kredibel
+- Pastikan Google Scholar survey sebagai rujukan utama.
+- Ambil dari paling kuat (sitasi banyak)
+- Studi literatur 
+	- AI Google Scholar bisa bandingkan beberapa paper
+	- Buat tabel perbandingan metode tiap paper

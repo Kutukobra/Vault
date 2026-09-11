@@ -6,6 +6,7 @@
       {
         "id": "6cc8d983f6089f04",
         "type": "tabs",
+        "dimension": 66.52744630071598,
         "children": [
           {
             "id": "6c41ab87c60da02c",
@@ -55,12 +56,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Outline Skripsi.md",
+                "file": "Log Bimbingan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Outline Skripsi"
+              "title": "Log Bimbingan"
             }
           }
         ],
@@ -69,6 +70,7 @@
       {
         "id": "cec263b4a5928145",
         "type": "tabs",
+        "dimension": 33.472553699284006,
         "children": [
           {
             "id": "a47e06a74f569d28",
@@ -248,10 +250,10 @@
       "graph:Open graph view": false
     }
   },
-  "active": "a47e06a74f569d28",
+  "active": "ab3d66903b7e8f02",
   "lastOpenFiles": [
-    "Seminar.md",
     "Outline Skripsi.md",
+    "Seminar.md",
     "Timeline.md",
     "CiUAV.md",
     "UbiTrack.md",
