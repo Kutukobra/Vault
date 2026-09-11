@@ -45,9 +45,7 @@
 - Tunggu feedback soal depth dari dasar teori. Fokus utama presentasi dan revisi.
 - Utamakan demo (live). Tapi nggak apa-apa live.
 - Utama dari skripsi adalah datanya.
-- 
 ### Next Goal
 - Ngetes sinyal ESP-CSI untuk divisualisasikan sederhana.
-- Naro bab II.
 - Cari paper makin banyak.
 - Fokus bab II.

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CiUAV.md",
+                "file": "Log Bimbingan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CiUAV"
+              "title": "Log Bimbingan"
             }
           }
         ]
@@ -215,6 +215,7 @@
   },
   "active": "822796de77932970",
   "lastOpenFiles": [
+    "CiUAV.md",
     "Outline Skripsi.md",
     "CSI.md",
     "README.md",
@@ -235,7 +236,6 @@
     "Timeline.md",
     "UbiTrack.md",
     "Fingerprinting.md",
-    "CiUAV.md",
     "Bands.md",
     "WiFi7.md",
     "Untitled.md",
