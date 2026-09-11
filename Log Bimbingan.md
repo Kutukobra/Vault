@@ -32,3 +32,22 @@
 - Studi literatur 
 	- AI Google Scholar bisa bandingkan beberapa paper
 	- Buat tabel perbandingan metode tiap paper
+- Hasil skripsi sama persis masih boleh. Diuji adalah analisis dan pengertian.
+- Apa yang diimprove.
+- Framing bisa low-cost drone. Bisa masuk di tujuan
+- Kalaupun gagal Drone terbang, worste case scenario bisa cukup visualizer.
+- Pendekatan utama harus fokus ke CSI 
+- Harus ada komponen matematis.
+- Yang masuk ke buku dipertanggungjawabkan.
+- Nggak usah overthinking yang kurang dibahas.
+- Sidang presentasi hanya 20 menit. Asalkan sistematis jelas.
+- Buku skripsi yang ngecek dosen penguji lain.
+- Tunggu feedback soal depth dari dasar teori. Fokus utama presentasi dan revisi.
+- Utamakan demo (live). Tapi nggak apa-apa live.
+- Utama dari skripsi adalah datanya.
+- 
+### Next Goal
+- Ngetes sinyal ESP-CSI untuk divisualisasikan sederhana.
+- Naro bab II.
+- Cari paper makin banyak.
+- Fokus bab II.
