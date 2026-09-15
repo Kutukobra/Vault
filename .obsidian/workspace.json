@@ -56,12 +56,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Referensi.md",
+                "file": "CiUAV.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Referensi"
+              "title": "CiUAV"
             }
           }
         ],
@@ -252,14 +252,14 @@
   },
   "active": "ab3d66903b7e8f02",
   "lastOpenFiles": [
-    "CiUAV.md",
     "Log Bimbingan.md",
+    "Referensi.md",
+    "CiUAV.md",
     "Outline Skripsi.md",
     "Seminar.md",
     "Timeline.md",
     "UbiTrack.md",
     "Studi Literatur.md",
-    "Referensi.md",
     "flix.md",
     "WiFi.md",
     "WiFi Sensing.md",

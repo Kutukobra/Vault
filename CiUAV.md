@@ -16,7 +16,16 @@
 - Autonomous inspection, RT surveillance, etc. that requires cm level accuracy.
 - Significant challenge. Many sensors are developed to help with indoor positioning.
 - Other methods:
-	- Ultra-Wide Band: Expensive, LoS
-	- Optical (CV): 
-	- Bluetooth
+	- Ultra-Wide Band: Accurate but complexity and deployment challenges.
+	- Optical (CV): Accurate but expensive and LoS.
+	- Bluetooth: Cost-effective but lacks accuracy.
+- CSI as promising solution for accuracy, cost,  and robustness.
+- Most researches are 2D CSI localization, not 3D.
+- Gap: no 3D localization for UAV indoor applications.
+- CSI uses Amplitude and Phase which are highly affected by environmental factors.
+- Real uses may result in incomplete sensor data or limited samples, challenge to system performance.
+- CiUAV: low-cost with ESP32-S3 without additional onboard equipment.
+- 
+- Dynamic [[AGC]] to mitigate CSI signal distortions. Outlier processing method to optimize representation.
+- Multi-task joint 3D localization model to adapt limited training data.
 - 
