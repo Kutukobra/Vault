@@ -42,20 +42,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studi Literatur.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Studi Literatur"
-            }
-          },
-          {
-            "id": "ab3d66903b7e8f02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "CiUAV.md",
                 "mode": "source",
                 "source": false
@@ -65,7 +51,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "cec263b4a5928145",
@@ -250,29 +236,29 @@
       "graph:Open graph view": false
     }
   },
-  "active": "ab3d66903b7e8f02",
+  "active": "7b4f340c76215deb",
   "lastOpenFiles": [
+    "Studi Literatur.md",
+    "ESP-CSI.md",
+    "flix.md",
     "Log Bimbingan.md",
-    "Referensi.md",
+    "Fingerprinting.md",
+    "README.md",
+    "Skripsi.md",
     "CiUAV.md",
+    "Referensi.md",
     "Outline Skripsi.md",
     "Seminar.md",
     "Timeline.md",
     "UbiTrack.md",
-    "Studi Literatur.md",
-    "flix.md",
     "WiFi.md",
     "WiFi Sensing.md",
-    "Fingerprinting.md",
-    "ESP-CSI.md",
     "Data Penelitian.md",
     "CSI.md",
     "Autonomous.md",
-    "README.md",
     "Bands.md",
     "WiFi7.md",
     "Untitled.md",
-    "Skripsi.md",
     "Untitled.canvas",
     "Pasted image 20260901094508.png",
     "create a link.md",
