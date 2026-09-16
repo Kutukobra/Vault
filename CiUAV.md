@@ -29,3 +29,4 @@
 - Dynamic [[AGC]] to mitigate CSI signal distortions. Outlier processing method to optimize representation.
 - Multi-task joint 3D localization model to adapt limited training data.
 - Sensor-in-Sample ([[SiS]]) that optimizes sensor quantity and datasets size. Allows accuracy despite limitations.
+- 
