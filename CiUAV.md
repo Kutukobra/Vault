@@ -10,7 +10,7 @@
 - With ESP32 IoT [[ESP-CSI|CSI]], Automatic Gain Control ([[AGC]]), and multi-task 3D localization model.
 - Utilizes Sensor-in-Sample ([[SiS]]) to enhance robustness. 
 - Cost-effective and scalable solution.
-- LMSE = 0.2629 (3D space)
+- LMSE = 0.2629 meters (3D space)
 ### Introduction
 - GPS denied environment is crucial for UAVs' full potential.
 - Autonomous inspection, RT surveillance, etc. that requires cm level accuracy.
@@ -25,7 +25,6 @@
 - CSI uses Amplitude and Phase which are highly affected by environmental factors.
 - Real uses may result in incomplete sensor data or limited samples, challenge to system performance.
 - CiUAV: low-cost with ESP32-S3 without additional onboard equipment.
-- 
 - Dynamic [[AGC]] to mitigate CSI signal distortions. Outlier processing method to optimize representation.
 - Multi-task joint 3D localization model to adapt limited training data.
 - Sensor-in-Sample ([[SiS]]) that optimizes sensor quantity and datasets size. Allows accuracy despite limitations.
