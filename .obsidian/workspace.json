@@ -6,7 +6,6 @@
       {
         "id": "6cc8d983f6089f04",
         "type": "tabs",
-        "dimension": 66.527446300716,
         "children": [
           {
             "id": "6c41ab87c60da02c",
@@ -40,35 +39,14 @@
             "id": "7b4f340c76215deb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CiUAV.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CiUAV"
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "cec263b4a5928145",
-        "type": "tabs",
-        "dimension": 33.47255369928401,
-        "children": [
-          {
-            "id": "a47e06a74f569d28",
-            "type": "leaf",
-            "state": {
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -238,9 +216,14 @@
   },
   "active": "7b4f340c76215deb",
   "lastOpenFiles": [
+    "Untitled.base",
+    "Skripsi.md",
+    "Seminar.md",
+    "Autonomous.md",
     "CSI.md",
-    "Referensi.md",
+    "WiFi Sensing.md",
     "CiUAV.md",
+    "Referensi.md",
     "UbiTrack.md",
     "Studi Literatur.md",
     "ESP-CSI.md",
@@ -248,21 +231,16 @@
     "Log Bimbingan.md",
     "Fingerprinting.md",
     "README.md",
-    "Skripsi.md",
     "Outline Skripsi.md",
-    "Seminar.md",
     "Timeline.md",
     "WiFi.md",
-    "WiFi Sensing.md",
     "Data Penelitian.md",
-    "Autonomous.md",
     "Bands.md",
     "WiFi7.md",
     "Untitled.md",
     "Untitled.canvas",
     "Pasted image 20260901094508.png",
     "create a link.md",
-    "Welcome.md",
-    "Untitled.base"
+    "Welcome.md"
   ]
 }
