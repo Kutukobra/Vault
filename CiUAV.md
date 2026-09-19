@@ -27,7 +27,7 @@
 - Multi-task joint 3D localization model to adapt limited training data.
 - Sensor-in-Sample ([[SiS]]) that optimizes sensor quantity and datasets size. Allows accuracy despite limitations.
 ### Related Works
-- [[WiFi Sensing|WiFi-Based Indoor Positioning]]
+- [[WiFi Positioning|WiFi-Based Indoor Positioning]]
 - [[CSI Based Passive Sniffing]]
 - [[MTL|Multi-Task Learning]]
 ### Experiment
