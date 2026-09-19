@@ -1,7 +1,5 @@
 - Category: Prototype
 - Link: https://arxiv.org/pdf/2505.21216v1
-## Context
-- 
 ##  Contributions
 - [[ESP-CSI]]
 - Localization
@@ -19,8 +17,8 @@
 	- Ultra-Wide Band: Accurate but complexity and deployment challenges.
 	- Optical (CV): Accurate but expensive and LoS.
 	- Bluetooth: Cost-effective but lacks accuracy.
-- CSI as promising solution for accuracy, cost,  and robustness.
-- Most researches are 2D CSI localization, not 3D.
+- [[CSI]] as promising solution for accuracy, cost,  and robustness.
+- Most researches are 2D [[CSI]] localization, not 3D.
 - Gap: no 3D localization for UAV indoor applications.
 - CSI uses Amplitude and Phase which are highly affected by environmental factors.
 - Real uses may result in incomplete sensor data or limited samples, challenge to system performance.
@@ -28,4 +26,12 @@
 - Dynamic [[AGC]] to mitigate CSI signal distortions. Outlier processing method to optimize representation.
 - Multi-task joint 3D localization model to adapt limited training data.
 - Sensor-in-Sample ([[SiS]]) that optimizes sensor quantity and datasets size. Allows accuracy despite limitations.
-- 
+### Conclusion
+- [[AGC]] greatly reduces [[CSI]] noise.
+- [[SiS]] optimizes sensor configurations.
+- Localization error of 0.2629 meters.
+
+### Related Works
+- [[WiFi Sensing|WiFi-Based Indoor Positioning]]
+- [[CSI Based Passive Sniffing]]
+- [[MTL|Multi-Task Learning]]
