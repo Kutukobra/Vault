@@ -31,8 +31,15 @@
 - ####  [[CSI Based Passive Sniffing]]
 - ####  [[MTL|Multi-Task Learning]]
 
-### Experiment
+### Methodology
+![[Pasted image 20260921225335.png|639]]
+1. Data Acquisition
+2. [[AGC]] compensation
+3. Model training
+4. 3D localization
 ### Conclusion
 - [[AGC]] greatly reduces [[CSI]] noise.
 - [[SiS]] optimizes sensor configurations.
 - Localization error of 0.2629 meters.
+### References
+- 
