@@ -34,12 +34,18 @@
 ### Methodology
 ![[Pasted image 20260921225335.png|639]]
 #### 1. Data Acquisition
-- UAV uses ARUCO and ToF for position.
 - ICMP echo request from sensors, UAV replies with CSI information.
 - Non-intrusive approach.
 - Multiple CSI sensors, collect CSI data then transfer to host via UDP.
-- 
+- UAV uses ARUCO and ToF for position.
+- Position data is used as label.
+- PID controller used to target data point.
+- CSI data collected.
 #### 2. Dynamic [[AGC]] compensation
+- AGC automatically adjusts signal gain for stability.
+- AGC causes distortion, dynamic AGC adjusts.
+- ESP32-S3 allows real-time AGC.
+- 
 #### 3. Model training
 #### 4. 3D localization
 - UAV uses onboard camera to detect ARUCO markers.
