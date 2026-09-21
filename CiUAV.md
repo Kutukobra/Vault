@@ -33,10 +33,19 @@
 
 ### Methodology
 ![[Pasted image 20260921225335.png|639]]
-1. Data Acquisition
-2. [[AGC]] compensation
-3. Model training
-4. 3D localization
+#### 1. Data Acquisition
+- UAV uses ARUCO and ToF for position.
+- ICMP echo request from sensors, UAV replies with CSI information.
+- Non-intrusive approach.
+- Multiple CSI sensors, collect CSI data then transfer to host via UDP.
+- 
+#### 2. Dynamic [[AGC]] compensation
+#### 3. Model training
+#### 4. 3D localization
+- UAV uses onboard camera to detect ARUCO markers.
+- ToF sensor to measure altitude.
+- CSI data and 3D coordinate transmitted via wireless transmission.
+
 ### Conclusion
 - [[AGC]] greatly reduces [[CSI]] noise.
 - [[SiS]] optimizes sensor configurations.
