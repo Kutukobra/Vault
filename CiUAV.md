@@ -45,8 +45,16 @@
 - AGC automatically adjusts signal gain for stability.
 - AGC causes distortion, dynamic AGC adjusts.
 - ESP32-S3 allows real-time AGC.
-- 
 #### 3. Model training
+- SiS: Multi-task 3D Localization model
+- Optimizes sensor configurations and training data usage.
+- Input _X_: CSI Amplitude only for every sensor every subcarrier.
+- Labels _Y_: 3D coordinates.
+- Feature extractor extracts features _H_ from input data _X_. Meaningful patterns and structural information.
+- _H_ mapped to _Y'_ predicted positions.
+- Loss function reduces training sample while maximizing position accuracy.
+- To minimize number of sensors, sparsity regularization term.
+- Regularization term penalizes sensor weight to reduce redundant deployment.
 #### 4. 3D localization
 - UAV uses onboard camera to detect ARUCO markers.
 - ToF sensor to measure altitude.
