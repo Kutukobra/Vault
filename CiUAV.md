@@ -54,12 +54,16 @@
 - _H_ mapped to _Y'_ predicted positions.
 - Loss function reduces training sample while maximizing position accuracy.
 - To minimize number of sensors, sparsity regularization term.
-- Regularization term penalizes sensor weight to reduce redundant deployment.
+- Regularization term penalizes sensor weight to reduce redundant deployment. 
+- Sample weight vector reguralization to prioritize high-value samples.
+- Total Loss = Lprediction + Lsensor + (C)Lsample where C is the regularization coefficient.
+- Total loss balances positioning, accuracy, sensor sparsity.
 #### 4. 3D localization
 - UAV uses onboard camera to detect ARUCO markers.
 - ToF sensor to measure altitude.
 - CSI data and 3D coordinate transmitted via wireless transmission.
-
+### Experiments
+- Three CSI sensors on 2.5 m ceiling. Within 5 m x 5 m room.
 ### Conclusion
 - [[AGC]] greatly reduces [[CSI]] noise.
 - [[SiS]] optimizes sensor configurations.

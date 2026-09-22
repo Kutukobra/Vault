@@ -49,3 +49,20 @@
 - Ngetes sinyal ESP-CSI untuk divisualisasikan sederhana.
 - Cari paper makin banyak.
 - Fokus bab II.
+
+## Bimbingan (22/09/2026)
+- Fleksibel soal waktu.
+- Ketika pulang kerja alokasikan waktu komitmen setengah jam.
+- Waktu mahasiswa tetap harus dialokasikan side job.
+- Dicoba sesedikit mungkin dengan seefisien mungkin.
+- Tunggu learning curve memandai.
+- Diupayakan dulu yang bisa tercapai. Kalaupun nggak di akhir September bisa coba Oktober.
+- Pak Alfan kerjakan hanya hari Sabtu sekitar 4 jam fokus.
+- Dengan ada AI bisa sangat membantu.
+- Coba solve yang mudah dengan AI dulu seperti software.
+- Coba kerjakan yang lain selama ditinggal, parallel process.
+- Kadang kerja lama tanpa output tidak efektif. Sebaiknya coba untuk 
+- Coba uji dari paper yang sudah ada. Tes obstacle.
+- Bisa saja demonstrasi di luar drone.
+- Coba analisis software terlebih dahulu.
+- Nggak apa-apa slowburn selama ada sedikit progress.

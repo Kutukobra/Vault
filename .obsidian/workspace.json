@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CiUAV.md",
+                "file": "Log Bimbingan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CiUAV"
+              "title": "Log Bimbingan"
             }
           }
         ],
@@ -240,11 +240,11 @@
   },
   "active": "f0a3ebe4da8ba933",
   "lastOpenFiles": [
+    "CiUAV.md",
     "Pasted image 20260921225335.png",
     "Studi Literatur.md",
     "Outline Skripsi.md",
     "Untitled.base",
-    "CiUAV.md",
     "WiFi Positioning.md",
     "RSSI.md",
     "Multipath Propagation.md",
