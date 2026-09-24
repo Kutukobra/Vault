@@ -53,6 +53,7 @@
 - Feature extractor extracts features _H_ from input data _X_. Meaningful patterns and structural information.
 - _H_ mapped to _Y'_ predicted positions.
 - Loss function reduces training sample while maximizing position accuracy.
+##### Loss
 - To minimize number of sensors, sparsity regularization term.
 - Regularization term penalizes sensor weight to reduce redundant deployment. 
 - Sample weight vector reguralization to prioritize high-value samples.
@@ -63,7 +64,26 @@
 - ToF sensor to measure altitude.
 - CSI data and 3D coordinate transmitted via wireless transmission.
 ### Experiments
+#### Setup
 - Three CSI sensors on 2.5 m ceiling. Within 5 m x 5 m room.
+- Wireless router to establish area network communication link.
+- Three CSI sensors connected to router. One-touch network configuration.
+- Indoor UAV connected through WiFi to the router.
+- Host computer used as data storage and computation. Same router.
+- UDP 2.4 GHz in the same lan.
+- Controls via Tello API.
+#### Dataset
+- CSI sensor 50 Hz sampling rate.
+- 121 grid points.
+- Height 0.6 - 2 m.
+- At each point and height, 500 frames.
+- 3 time periods.
+- **77,000** samples **33,000** test set.
+#### Input CSI data
+- N=10,000 samples.
+- S=3 sensors.
+- f=50 subcarriers.
+- 
 ### Conclusion
 - [[AGC]] greatly reduces [[CSI]] noise.
 - [[SiS]] optimizes sensor configurations.

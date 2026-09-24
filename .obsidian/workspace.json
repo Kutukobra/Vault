@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MTL.md",
+                "file": "CiUAV.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MTL"
+              "title": "CiUAV"
             }
           }
         ],
@@ -236,11 +236,11 @@
   },
   "active": "93851a71a7f980ae",
   "lastOpenFiles": [
+    "MTL.md",
     "Pasted image 20260921225335.png",
     "CiUAV.md",
     "WiFi Positioning.md",
     "CSI Based Passive Sniffing.md",
-    "MTL.md",
     "CNNLoc.md",
     "Multipath Propagation.md",
     "Referensi.md",
