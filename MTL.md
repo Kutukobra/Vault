@@ -1,3 +1,5 @@
+## Introduction
+- 
 ## Notes
 - Leverages shared features across related tasks to improve generalization and performance in NLP & Computer Vision.
 - Parameter Sharing: tasks share a common feature extraction layer.

@@ -80,10 +80,30 @@
 - 3 time periods.
 - **77,000** samples **33,000** test set.
 #### Input CSI data
-- N=10,000 samples.
-- S=3 sensors.
-- f=50 subcarriers.
-- 
+- N = 10,000 samples.
+- S = 3 sensors.
+- f = 50 subcarriers.
+- Extracted dimensionality: Fh = 128.
+#### Training
+- Weights
+	- Regularization terms 0.01
+	- Sensor sparsity 0.1
+- Adam Optimizer 0.0001
+- Batch size 32.
+- 400 Epochs.
+- PyTorch.
+- Mean Absolute Error (MAE)
+- Localization Mean Squared Error (LMSE)
+- Coefficient of Determination R^2. Closer to 1 means better localization. 
+#### Result
+##### Different Feature Extractors
+- InceptionNet
+- MobileNet
+- ResNet
+#### State of The Art CSI Localization Methods
+- [[Loclite]]
+- [[SSLUL]]
+
 ### Conclusion
 - [[AGC]] greatly reduces [[CSI]] noise.
 - [[SiS]] optimizes sensor configurations.
