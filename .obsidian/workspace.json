@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes on WiFi7 Calibration.md",
+                "file": "Notes on WiFi7 Tests.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notes on WiFi7 Calibration"
+              "title": "Notes on WiFi7 Tests"
             }
           }
         ],
@@ -254,7 +254,7 @@
   },
   "active": "2217bcaeda0bca4e",
   "lastOpenFiles": [
-    "Notes on WiFi7 Calibration.md",
+    "Notes on WiFi7 Tests.md",
     "Log Bimbingan.md",
     "CiUAV.md",
     "Pasted image 20260921225335.png",
