@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Referensi.md",
+                "file": "WiFi Sensing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Referensi"
+              "title": "WiFi Sensing"
             }
           }
         ],
@@ -62,12 +62,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CiUAV.md",
+                "file": "Referensi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CiUAV"
+              "title": "Referensi"
             }
           }
         ]
@@ -238,10 +238,12 @@
       "graph:Open graph view": false
     }
   },
-  "active": "5f0768e521be2d94",
+  "active": "93851a71a7f980ae",
   "lastOpenFiles": [
-    "Outline Skripsi.md",
     "CiUAV.md",
+    "WiFi Sensing.md",
+    "Outline Skripsi.md",
+    "Referensi.md",
     "Studi Literatur.md",
     "Notes on WiFi7 Tests.md",
     "Pasted image 20260921225335.png",
@@ -250,10 +252,8 @@
     "CSI Based Passive Sniffing.md",
     "CNNLoc.md",
     "Multipath Propagation.md",
-    "Referensi.md",
     "Untitled.base",
     "RSSI.md",
-    "WiFi Sensing.md",
     "Skripsi.md",
     "Seminar.md",
     "Autonomous.md",

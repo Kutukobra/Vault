@@ -11,10 +11,9 @@
 ### Sistematika Penulisan
 
 ## Bab II: Tinjauan Pustaka
-### [[WiFi]]
 ### [[WiFi Sensing]]
-### [[CSI|Channel State Information]]
-### [[Fingerprinting|WiFi Fingerprinting]]
+#### [[CSI|Channel State Information]]
+#### [[Fingerprinting|WiFi Fingerprinting]]
 ### [[MTL|Multi-Task Learning]]
 ### [[Autonomous|Gerak Otonom]]
 ### Platform dan Teknologi Pendukung

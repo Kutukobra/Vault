@@ -10,28 +10,28 @@ CiUAV: A Multi-Task 3D Indoor Localization System for UAVs based on Channel Stat
 [https://arxiv.org/html/2505.21216v1](https://arxiv.org/html/2505.21216v1)
 
 CSI ESP32 Deep Learning
-
 [https://github.com/GUNIREDDYCHARANKUMARREDDY/2D-Indoor-Localization-utilizing-WiFi-Channel-State-Information-and-Deep-Learning-Employing-ESP32](https://github.com/GUNIREDDYCHARANKUMARREDDY/2D-Indoor-Localization-utilizing-WiFi-Channel-State-Information-and-Deep-Learning-Employing-ESP32)
 
 FLIX Drone
-
 [https://github.com/okalachev/flix/tree/master/flix](https://github.com/okalachev/flix/tree/master/flix)
 
 Wi-Fi fingerprint based indoor localization using few shot regression
-
 [https://ieeexplore.ieee.org/document/10580239](https://ieeexplore.ieee.org/document/10580239)
 
 CSI Fingerprint Indoor Positioning
-
 [https://ruview.blog/wifi-indoor-positioning/](https://ruview.blog/wifi-indoor-positioning/)
 
 Location Fingerprinting
-
 [www.pointr.tech/blog/location-fingerprinting-what-is-it-should-you-choose-it](http://www.pointr.tech/blog/location-fingerprinting-what-is-it-should-you-choose-it)
 
 Compound Location Fingerprinting
-
 [https://ieeexplore.ieee.org/document/8559728](https://ieeexplore.ieee.org/document/8559728)
 
 A Novel Convolutional Neural Network Based Indoor Localization Framework With WiFi Fingerprinting
 https://remote-lib.ui.ac.id:2147/stamp/stamp.jsp?tp=&arnumber=8792196
+
+WiFi-Based Human Sensing With Deep Learning: Recent Advances, Challenges, and Opportunities
+https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10552143
+
+Wi-Fi Sensing: Applications and Challenges
+https://arxiv.org/pdf/1901.00715
