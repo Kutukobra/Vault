@@ -32,3 +32,6 @@ Location Fingerprinting
 Compound Location Fingerprinting
 
 [https://ieeexplore.ieee.org/document/8559728](https://ieeexplore.ieee.org/document/8559728)
+
+A Novel Convolutional Neural Network Based Indoor Localization Framework With WiFi Fingerprinting
+https://remote-lib.ui.ac.id:2147/stamp/stamp.jsp?tp=&arnumber=8792196

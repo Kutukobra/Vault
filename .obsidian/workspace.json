@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Outline Skripsi.md",
+                "file": "Referensi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Outline Skripsi"
+              "title": "Referensi"
             }
           }
         ],
@@ -240,8 +240,8 @@
   },
   "active": "5f0768e521be2d94",
   "lastOpenFiles": [
-    "CiUAV.md",
     "Outline Skripsi.md",
+    "CiUAV.md",
     "Studi Literatur.md",
     "Notes on WiFi7 Tests.md",
     "Pasted image 20260921225335.png",
