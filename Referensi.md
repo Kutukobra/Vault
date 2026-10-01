@@ -35,3 +35,6 @@ https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10552143
 
 Wi-Fi Sensing: Applications and Challenges
 https://arxiv.org/pdf/1901.00715
+
+WiFi Sensing with Channel State Information: A Survey
+https://dl.acm.org/doi/epdf/10.1145/3310194
