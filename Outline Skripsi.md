@@ -15,6 +15,7 @@
 ### [[WiFi Sensing]]
 ### [[CSI|Channel State Information]]
 ### [[Fingerprinting|WiFi Fingerprinting]]
+### [[MTL|Multi-Task Learning]]
 ### [[Autonomous|Gerak Otonom]]
 ### Platform dan Teknologi Pendukung
 #### [[flix|Quadcopter flix ]]

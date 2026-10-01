@@ -96,6 +96,7 @@
 - Localization Mean Squared Error (LMSE)
 - Coefficient of Determination R^2. Closer to 1 means better localization. 
 #### Result
+- Multi-
 ##### Different Feature Extractors
 - InceptionNet
 - MobileNet
@@ -103,7 +104,6 @@
 #### State of The Art CSI Localization Methods
 - [[Loclite]]
 - [[SSLUL]]
-
 ### Conclusion
 - [[AGC]] greatly reduces [[CSI]] noise.
 - [[SiS]] optimizes sensor configurations.
