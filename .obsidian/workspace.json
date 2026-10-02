@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WiFi Sensing.md",
+                "file": "CiUAV.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WiFi Sensing"
+              "title": "CiUAV"
             }
           }
         ],
@@ -240,12 +240,14 @@
   },
   "active": "54b15ea23168f648",
   "lastOpenFiles": [
+    "Log Bimbingan.md",
+    "flix.md",
+    "WiFi Sensing.md",
     "Outline Skripsi.md",
     "Referensi.md",
     "Fingerprinting.md",
     "CiUAV.md",
     "CSI.md",
-    "WiFi Sensing.md",
     "Studi Literatur.md",
     "Notes on WiFi7 Tests.md",
     "Pasted image 20260921225335.png",
@@ -261,8 +263,6 @@
     "Autonomous.md",
     "UbiTrack.md",
     "ESP-CSI.md",
-    "flix.md",
-    "Log Bimbingan.md",
     "README.md",
     "Timeline.md",
     "WiFi.md",

@@ -66,3 +66,5 @@
 - Bisa saja demonstrasi di luar drone.
 - Coba analisis software terlebih dahulu.
 - Nggak apa-apa slowburn selama ada sedikit progress.
+## Bimbingan (02/10/2026)
+- 
