@@ -12,7 +12,8 @@
 ![[Pasted image 20261009145219.png]]
 # Coding Rate
 - CR = 4
-  Fine, no noticeable change
+  Noisy.
+- CR = 5
 ## Spreading Factor
 - SF = 6
   Data gone
@@ -27,3 +28,7 @@
   Way faster. A lot of missing data.
 - BW = 250E3
   Slightly faster. Not as much missing data.
+## Power
+- POWER = 20
+  Works fine.
+- 
