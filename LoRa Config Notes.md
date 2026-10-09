@@ -31,4 +31,6 @@
 ## Power
 - POWER = 20
   Works fine.
-- 
+## Preamble
+- PREAMBLE = 6
+  Works fine
