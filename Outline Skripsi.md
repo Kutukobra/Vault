@@ -1,13 +1,12 @@
 ## Bab I: Pendahuluan
 ### Latar Belakang
 ### Rumusan Masalah
+- Saya masalahnya
 ### Tujuan Penelitian
 - Lokalisasi low cost dalam ruangan untuk drone low cost (FLIX)
 - Menguji viability navigation dengan ESP-CSI localization.
 ### Manfaat Penelitian
 ### Ruang Lingkup Penelitian
-- Keberhasilan% drone FLIX bergerak otonom dari satu titik ke titik lain.
-- 
 ### Sistematika Penulisan
 
 ## Bab II: Tinjauan Pustaka
@@ -29,4 +28,6 @@
 ### [[Perancangan Sistem]]
 ### [[Implementasi Sistem]]
 ### [[Metrik Evaluasi ]]
+- Keberhasilan% drone FLIX bergerak otonom dari satu titik ke titik lain dalam n percobaan.
+- Akurasi posisi landing dalam m RMSE 
 
