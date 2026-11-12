@@ -14,6 +14,8 @@
 #### [[CSI|Channel State Information]]
 #### [[Fingerprinting|WiFi Fingerprinting]]
 ### [[MTL|Multi-Task Learning]]
+
+### [[Mavlink]] 
 ### [[Autonomous|Gerak Otonom]]
 ### Platform dan Teknologi Pendukung
 #### [[flix|Quadcopter flix ]]
