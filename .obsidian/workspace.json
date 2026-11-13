@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Outline Skripsi.md",
+                "file": "Log Bimbingan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Outline Skripsi"
+              "title": "Log Bimbingan"
             }
           }
         ]
@@ -211,8 +211,8 @@
   },
   "active": "e458e6f77629350f",
   "lastOpenFiles": [
-    "Roadmap.md",
     "Outline Skripsi.md",
+    "Roadmap.md",
     "Timeline.md",
     "Pasted image 20260921225335.png",
     "Pasted image 20261009145219.png",

@@ -22,7 +22,6 @@
 - Beli bahan-bahan
 - Summarize beberapa paper
 - Mulai edit overleaf
-
 ## Bimbingan (10/09/2026)
 - Struktur utama dari skripsi fleksibel.
 - Tinjauan pustaka dipastikan referensi terbaru dan terupdate (kalau bisa 3 tahun terakhir)
@@ -66,5 +65,26 @@
 - Bisa saja demonstrasi di luar drone.
 - Coba analisis software terlebih dahulu.
 - Nggak apa-apa slowburn selama ada sedikit progress.
-## Bimbingan (02/10/2026)
-- 
+## Bimbingan (13/11/2026)
+- Yang penting sistem positioning
+- Drone/Device sekunder
+- Fokus ke sistem dan jadinya lebih modular
+- Koleksi datanya harus lumayan lama.
+- Anak S2 ada yang gunakan WiFi fingerprint untuk deteksi security.
+	- SSID dipalsu, dengan karakterisasi fingerprint pola sinyal sekitar.
+	- Ketidakstabilan konsistensi suhu dan kelembapan.
+- Karakterisasi sinyal sudha cukup, yang penting sinyal saja.
+- Faktor setiap sudut ruangan walaupun kurang fleksibel cukup untuk skripsi
+- Satu ESP digunakan untuk record dikarakterisasi berbagai lokasi cukup sama untuk berbeda
+- Kalau anchor mungkin digabung dengan bluetooth.
+- Dengan fusion untuk beberapa kategori
+- November atau Desember untuk buku bisa dikumpulin
+- Positioning untuk HP juga bisa dicoba
+- Lokalisasi antar satu sama lain untuk *proof-of-concept* swarm.
+- Kalau ternyata masih terlalu rumit, digunakan untuk anti *collision*. 
+- Signal strength sebagai pembanding untuk jadi parameter skripsi.
+- Drone hold dulu, coba tes signal strength
+### Next Goal
+- Coba data dicollect dulu, dari dua ESP bergerak variabel apa saja yang berubah, direcord.
+- Fokus ke pipeline dulu.
+- Untuk sempro coba logika pengukuran data dulu sudah cukup.
